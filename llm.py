@@ -42,6 +42,8 @@ class myqueryEngine(CustomQueryEngine):
 
 def send_information(mail_id: Optional[str] = None, phone:Optional[str] = None,name:Optional[str] = None,links:Optional[str] = None):
     """If user want to contact me or he has given any of his contact information or want to share any of the link """
+    ####AS such I don't have any idea how should I get this information but in future if get any tips i would send this information directly to my
+    #### email id or to my whatsapp
     print("****************")
     print("****************")
     print(mail_id)
