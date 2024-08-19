@@ -1,5 +1,7 @@
 ### AGENT[QueryEngine]
 
+![App Preview](assets/dashboard.png)
+
 This project is a custom query engine built to provide comprehensive information about Ashish Sharma using the Llama Index and Gemini LLM (Language Learning Model). The application allows users to interact with the engine to obtain details about Ashish Sharma's professional background, as well as capturing contact information provided by users.
 
 #### Features
